@@ -1,26 +1,12 @@
 <a href="https://discordinvites.net">
   <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=712c8a&height=300&animation=twinkling&fontAlignY=35&fontColor=DD58C0&text=SPIRIT-PRO&descAlignY=47&descAlign=60&desc=DiscordInvites%20-%20KIKI.RP" />
 </a>
+
+### Développeur Front-End
+
 <a href="https://discordinvites.net">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPIRIT-PRO&layout=compact&theme=jolly&hide_border=0" />
 </a>
 <a href="https://discordinvites.net">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPIRIT-PRO&show_icons=true&theme=jolly&hide_border=0" />
 </a>
-
-[discord]: https://discord.gg/nmnh4zxsy2/
-
-<!--
-**SPIRIT-PRO/SPIRIT-PRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
