@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&animation=twinkling&fontAlignY=35&text=SPIRIT-PRO&descAlignY=47&descAlign=60&desc=DiscordInvites%20-%20KIKI.RP)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPIRIT-PRO&layout=compact&theme=synthwave)](https://github.com/SPIRIT-PRO/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPIRIT-PRO&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPIRIT-PRO&layout=compact&theme=synthwave&hide_border)](https://github.com/SPIRIT-PRO/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPIRIT-PRO&show_icons=true&theme=synthwave&hide_border)
 
 <!--
 **SPIRIT-PRO/SPIRIT-PRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
