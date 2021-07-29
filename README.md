@@ -1,12 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=6516AA&height=300&animation=twinkling&fontAlignY=35&text=SPIRIT-PRO&descAlignY=47&descAlign=60&desc=DiscordInvites%20-%20KIKI.RP)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPIRIT-PRO&layout=compact&theme=jolly&hide_border=0)](https://github.com/SPIRIT-PRO/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPIRIT-PRO&show_icons=true&theme=jolly&hide_border=0)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://discordinvite.net">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=6516AA&height=300&animation=twinkling&fontAlignY=35&text=SPIRIT-PRO&descAlignY=47&descAlign=60&desc=DiscordInvites%20-%20KIKI.RP" />
+</a>
+<a href="https://discordinvites.net">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPIRIT-PRO&layout=compact&theme=jolly&hide_border=0" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://discordinvite.net">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPIRIT-PRO&show_icons=true&theme=jolly&hide_border=0" />
 </a>
 
