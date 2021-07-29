@@ -9,6 +9,8 @@
   🎨 Qualify with the Adobe suite 🎨
 </p>
 
+<br>
+
 <a href="https://discordinvites.net">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPIRIT-PRO&layout=compact&theme=jolly&hide_border=0" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPIRIT-PRO&show_icons=true&theme=jolly&hide_border=0" />
