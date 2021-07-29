@@ -5,7 +5,7 @@
 <p align="center">
   💻 A French Front-End Developer 💻
 </p>
-<p align="center"
+<p align="center">
   🎨 Qualify with the Adobe suite 🎨
 </p>
 
