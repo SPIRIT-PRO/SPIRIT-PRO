@@ -5,8 +5,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPIRIT-PRO&layout=compact&theme=jolly&hide_border=0" />
 </a>
 <a href="https://discordinvites.net">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPIRIT-PRO&show_icons=false&theme=jolly&hide_border=0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPIRIT-PRO&show_icons=true&theme=jolly&hide_border=0" />
 </a>
+
+[discord]: https://discord.gg/nmnh4zxsy2/
 
 <!--
 **SPIRIT-PRO/SPIRIT-PRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
