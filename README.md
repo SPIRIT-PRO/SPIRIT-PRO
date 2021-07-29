@@ -2,9 +2,9 @@
   <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=712c8a&height=300&animation=twinkling&fontAlignY=35&fontColor=DD58C0&text=SPIRIT-PRO&descAlignY=47&descAlign=60&desc=DiscordInvites%20-%20KIKI.RP" />
 </a>
 
-<p align="center">Développeur Front-End</p> 
 <p align='center'>
-  Développeur Front-End<
+  💻 A French Front-End Developer 💻
+  🎨 Qualify with the Adobe suite 🎨
 </p>
 
 <a href="https://discordinvites.net">
