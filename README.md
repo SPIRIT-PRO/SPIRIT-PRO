@@ -1,5 +1,5 @@
 <a href="https://discordinvites.net">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=712c8a&height=300&animation=twinkling&fontAlignY=35&fontColor=DD58C0&text=SPIRIT-PRO&descAlignY=47&descAlign=60&desc=DiscordInvites%20-%20KIKI.RP" />
+  <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=712c8a&height=300&animation=twinkling&fontAlignY=35&fontColor=DD58C0&text=SPIRIT-PRO&descAlignY=47&descAlign=60&desc=DiscordInvites%20-%20Los Angeles Dream" />
 </a>
 
 <p align="center">
