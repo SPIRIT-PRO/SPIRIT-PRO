@@ -1,4 +1,4 @@
-<a href="https://discordinvites.net">
+<a href="https://spiritcorp.fr">
   <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=712c8a&height=300&animation=twinkling&fontAlignY=35&fontColor=DD58C0&text=SPIRIT-PRO&descAlignY=47&descAlign=60&desc=DiscordInvites%20-%20Los%20Angeles%20Dream" />
 </a>
 
@@ -11,7 +11,7 @@
 
 <br>
 
-<a href="https://discordinvites.net">
+<a href="https://spiritcorp.fr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPIRIT-PRO&layout=compact&theme=jolly&hide_border=0" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPIRIT-PRO&show_icons=true&theme=jolly&hide_border=0" />
 </a>
